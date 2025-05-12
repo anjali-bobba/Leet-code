@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anjali-bobba/Leet-code/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anjali-bobba/Leet-code/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/anjali-bobba/Leet-code/tree/master/0067-add-binary) |
+| [1013-fibonacci-number](https://github.com/anjali-bobba/Leet-code/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/anjali-bobba/Leet-code/tree/master/0002-add-two-numbers) |
+| [1013-fibonacci-number](https://github.com/anjali-bobba/Leet-code/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -50,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anjali-bobba/Leet-code/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anjali-bobba/Leet-code/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/anjali-bobba/Leet-code/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
