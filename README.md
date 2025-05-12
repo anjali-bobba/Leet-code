@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/anjali-bobba/Leet-code/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anjali-bobba/Leet-code/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/anjali-bobba/Leet-code/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -37,4 +38,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anjali-bobba/Leet-code/tree/master/0209-minimum-size-subarray-sum) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/anjali-bobba/Leet-code/tree/master/0067-add-binary) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/anjali-bobba/Leet-code/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/anjali-bobba/Leet-code/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
