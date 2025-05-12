@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/anjali-bobba/Leet-code/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/anjali-bobba/Leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/anjali-bobba/Leet-code/tree/master/0643-maximum-average-subarray-i) |
+| [0747-min-cost-climbing-stairs](https://github.com/anjali-bobba/Leet-code/tree/master/0747-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0747-min-cost-climbing-stairs](https://github.com/anjali-bobba/Leet-code/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/anjali-bobba/Leet-code/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
