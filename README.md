@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anjali-bobba/Leet-code/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/anjali-bobba/Leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/anjali-bobba/Leet-code/tree/master/0747-min-cost-climbing-stairs) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/anjali-bobba/Leet-code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/anjali-bobba/Leet-code/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anjali-bobba/Leet-code/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/anjali-bobba/Leet-code/tree/master/1013-fibonacci-number) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/anjali-bobba/Leet-code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anjali-bobba/Leet-code/tree/master/0067-add-binary) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/anjali-bobba/Leet-code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
