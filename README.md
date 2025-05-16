@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/anjali-bobba/Leet-code/tree/master/0643-maximum-average-subarray-i) |
 | [0747-min-cost-climbing-stairs](https://github.com/anjali-bobba/Leet-code/tree/master/0747-min-cost-climbing-stairs) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/anjali-bobba/Leet-code/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/anjali-bobba/Leet-code/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/anjali-bobba/Leet-code/tree/master/0015-3sum) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/anjali-bobba/Leet-code/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
