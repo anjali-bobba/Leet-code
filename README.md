@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/anjali-bobba/Leet-code/tree/master/0067-add-binary) |
+| [0649-dota2-senate](https://github.com/anjali-bobba/Leet-code/tree/master/0649-dota2-senate) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anjali-bobba/Leet-code/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0649-dota2-senate](https://github.com/anjali-bobba/Leet-code/tree/master/0649-dota2-senate) |
 ## Tree
 |  |
 | ------- |
@@ -164,4 +166,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/anjali-bobba/Leet-code/tree/master/0232-implement-queue-using-stacks) |
+| [0649-dota2-senate](https://github.com/anjali-bobba/Leet-code/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
